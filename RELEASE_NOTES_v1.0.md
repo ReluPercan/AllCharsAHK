@@ -43,7 +43,7 @@
 ## 🔒 Verification & Checksums (SHA-256)
 
 `	ext
-5410cb2ac26e812b4cc5f0ad613a3038736064f4e640b71f8e8712b68a815dd8  AllCharsAHK_v1.0_Portable.zip
+a8b5b1e17e4b6428585b6094d4637390ae57b26ba3fdc49390d9b8fbcf32c784  AllCharsAHK_v1.0_Portable.zip
 1ecdd806136770f7e49061ebe9e5ed77f52eef678ed9b9b331c6eb97b9027cb8  AllCharsAHK.exe
 `
 
@@ -51,3 +51,4 @@ Verify in Windows PowerShell:
 `powershell
 Get-FileHash .\AllCharsAHK_v1.0_Portable.zip -Algorithm SHA256
 `
+
