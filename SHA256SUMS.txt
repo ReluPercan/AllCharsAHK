@@ -1,0 +1,2 @@
+5410cb2ac26e812b4cc5f0ad613a3038736064f4e640b71f8e8712b68a815dd8  AllCharsAHK_v1.0_Portable.zip
+1ecdd806136770f7e49061ebe9e5ed77f52eef678ed9b9b331c6eb97b9027cb8  AllCharsAHK.exe

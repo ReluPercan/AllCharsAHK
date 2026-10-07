@@ -1,0 +1,17 @@
+# Fisiere temporare si de sistem
+*.tmp
+*.bak
+*.log
+*~
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Medii de dezvoltare (IDE)
+.vscode/
+.idea/
+
+# Arhive de lansare si binare locale (se publica la Releases, nu in git tree)
+# *.exe
+# *.zip
