@@ -7,7 +7,7 @@
 
 ## 🌟 Highlights & Key Features (English)
 
-* **Compose Key Workflow:** Press your activator key (default: Right Ctrl), release, then type a short 2-character sequence (e.g.,  + ^ ➔ â, c + / ➔ ©).
+* **Flexible Trigger Keys:** Every mapping defines its own trigger prefix (`rc` = Right Ctrl, `lc` = Left Ctrl, `rs` = Right Shift, `c` = Any Ctrl, etc.). Tap and release the trigger, then type your sequence (e.g., `rc` then `a` ➔ **ă**, `rc` then `s` ➔ **ș**, `rc` then `e` ➔ **€**, `c` then `j` `j` ➔ Rare Characters palette).
 * **Zero Layout Switching:** Type Romanian diacritics (ă, â, î, ș, ț), math symbols, arrows, fractions, or currency while keeping your standard US/UK layout.
 * **Smart Chording Support:** Holding Ctrl+C, Ctrl+V, or Ctrl+Alt+Del will **never** trigger compose mode — normal Windows shortcuts work seamlessly.
 * **Pure Unicode 15.1:** Over 100+ built-in character sequences configured out-of-the-box in AllCharsAHK.cfg.
@@ -19,7 +19,7 @@
 
 ## 🇷🇴 Puncte Cheie (Română)
 
-* **Concept Compose Key:** Apeși tasta activator (implicit: Right Ctrl), eliberezi, apoi tastezi secvența dorită (ex: s + , ➔ ș, 	 + , ➔ ț,  + = ➔ €).
+* **Declanșare secvențială flexibilă:** Fiecare mapare își alege propria tastă declanșatoare (`rc` = Ctrl Dreapta, `lc` = Ctrl Stânga, `rs` = Shift Dreapta, `c` = Oricare Ctrl etc.). Apeși tasta trigger, eliberezi, apoi tastezi secvența dorită (ex: `rc` urmat de `a` ➔ **ă**, `rc` urmat de `s` ➔ **ș**, `rc` urmat de `e` ➔ **€**, `Ctrl` urmat de `j` `j` ➔ Paleta de Caractere Rare).
 * **Fără schimbat tastatura:** Tastezi direct diacritice românești cu virgulă dedesubt (standard ISO/Unicode), simboluri tipografice și caractere speciale, păstrând layout-ul de programare US/EN.
 * **Fără conflicte de combinații:** Combinațiile rapide de taste precum Ctrl+C, Ctrl+V sau Ctrl+Alt+Del nu declanșează niciodată modul compose.
 * **Consum minim de resurse (<10 MB RAM):** Rapiditate instantanee, binar 64-bit optimizat, fără dependențe externe.
@@ -42,14 +42,11 @@
 
 ## 🔒 Verification & Checksums (SHA-256)
 
-`	ext
+```text
 5410cb2ac26e812b4cc5f0ad613a3038736064f4e640b71f8e8712b68a815dd8  AllCharsAHK_v1.0_Portable.zip
-`
+```
 
 Verify in Windows PowerShell:
-`powershell
+```powershell
 Get-FileHash .\AllCharsAHK_v1.0_Portable.zip -Algorithm SHA256
-`
-
-
-
+```
