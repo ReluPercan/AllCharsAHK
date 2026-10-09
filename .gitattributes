@@ -1,0 +1,4 @@
+# Configurare atribute GitHub Linguist
+# Marcam fisierele HTML de documentatie drept documentatie pentru a nu fi incluse in statistica de limbaje de programare
+MANUAL.html linguist-documentation
+*.html linguist-documentation
