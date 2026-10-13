@@ -13,5 +13,16 @@ $RECYCLE.BIN/
 .idea/
 
 # Arhive de lansare si binare locale (se publica la Releases, nu in git tree)
-# *.exe
-# *.zip
+*.exe
+*.zip
+
+# Depozit si metadata Fossil SCM locale
+_FOSSIL_
+*.fossil
+*.fossil-journal
+.fslckout
+
+# Asistent AI si arhive locale RAM FS
+.agents/
+.gemini/
+arh_r/
