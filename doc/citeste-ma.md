@@ -8,8 +8,8 @@
 > **Scrie diacritice, simboluri tipografice și caractere [Unicode](https://home.unicode.org/) complexe pe Windows, rapid, intuitiv și fără a schimba layout-ul tastaturii.**
 
 [![AutoHotkey v2](https://img.shields.io/badge/AutoHotkey-v2-green.svg?logo=autohotkey&logoColor=white)](https://www.autohotkey.com/)
+![Script](https://img.shields.io/badge/Script-green.svg)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2011-blue.svg?logo=windows11&logoColor=white)](https://microsoft.com)
-![Portabil](https://img.shields.io/badge/Instalare-Portabil%20(Zero%20Config)-blue.svg)
 [![Licență](https://img.shields.io/badge/Licen%C8%9B%C4%83-MIT-brightgreen.svg)](../LICENSE)
 
 🌐 **Limbă:** **Română** | [English Version](../README.md)

@@ -36,7 +36,7 @@
    - [4.1. Configuration file format (UTF-8)](#41-configuration-file-format-utf-8)
    - [4.2. Global system variables and bilingual aliases](#42-global-system-variables-and-bilingual-aliases)
    - [4.3. Key mapping definition syntax](#43-key-mapping-definition-syntax)
-   - [4.4. Strict comment rules and hash symbol (#)](#44-strict-comment-rules-and-hash-symbol)
+   - [4.4. Strict comment rules and hash symbol (#)](#44-strict-comment-rules-and-hash-symbol-)
    - [4.5. Supported escape sequences (\\, \#, \", \n, \r, \t, \cb)](#45-supported-escape-sequences----n-r-t-cb)
 5. [Practical User Guide (Daily Workflow)](#5-practical-user-guide-daily-workflow)
    - [5.1. Typing diacritics and common symbols](#51-typing-diacritics-and-common-symbols)

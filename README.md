@@ -8,8 +8,8 @@
 > **Type diacritics, typographic symbols, and complex [Unicode](https://home.unicode.org/) characters on Windows quickly, intuitively, and without changing your keyboard layout.**
 
 [![AutoHotkey v2](https://img.shields.io/badge/AutoHotkey-v2-green.svg?logo=autohotkey&logoColor=white)](https://www.autohotkey.com/)
+![Script](https://img.shields.io/badge/Script-green.svg)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2011-blue.svg?logo=windows11&logoColor=white)](https://microsoft.com)
-![Portable](https://img.shields.io/badge/Installation-Portable%20(Zero%20Config)-blue.svg)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
 🌐 **Language:** **English** | [Versiunea în Limba Română](doc/citeste-ma.md)

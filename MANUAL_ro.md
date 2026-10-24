@@ -36,7 +36,7 @@
    - [4.1. Formatul fișierului de configurare (UTF-8)](#41-formatul-fișierului-de-configurare-utf-8)
    - [4.2. Variabile globale de sistem și alias-uri bilingve](#42-variabile-globale-de-sistem-și-alias-uri-bilingve)
    - [4.3. Sintaxa definirii mapărilor de taste](#43-sintaxa-definirii-mapărilor-de-taste)
-   - [4.4. Reguli stricte de comentarii și caracterul diez (#)](#44-reguli-stricte-de-comentarii-și-caracterul-diez)
+   - [4.4. Reguli stricte de comentarii și caracterul diez (#)](#44-reguli-stricte-de-comentarii-și-caracterul-diez-)
    - [4.5. Secvențe de scăpare suportate (\\, \#, \", \n, \r, \t, \cb)](#45-secvențe-de-scăpare-suportate----n-r-t-cb)
 5. [Ghid Practic de Utilizare (Fluxul de Lucru Zilnic)](#5-ghid-practic-de-utilizare-fluxul-de-lucru-zilnic)
    - [5.1. Tastarea diacriticelor și a simbolurilor uzuale](#51-tastarea-diacriticelor-și-a-simbolurilor-uzuale)
